@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! 👋
+### I'm Moldytzu a.k.a Moldu' and welcome to my profile!
 
 <!--
 **Moldytzu/Moldytzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<center>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moldytzu">
-</center>
+  
+  <br>
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moldytzu&theme=monokai" width="25%">
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moldytzu&theme=monokai" width="73%">
+</p>
