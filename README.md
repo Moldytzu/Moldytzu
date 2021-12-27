@@ -1,6 +1,8 @@
 ### Hi there! 👋
 ### I'm Moldytzu a.k.a Moldu' and welcome to my profile!
 
+- I’m currently working on moldOS, an operating system written in C++.
+
 <!--
 **Moldytzu/Moldytzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
