@@ -2,9 +2,6 @@
 ### I'm Moldytzu and welcome to my profile!
 ### I'm a self-taught programmer from Romania.
 
-~~- I’m currently working on rmold3D, a 3D game engine that uses OpenGL 3.3~~
-- I'm currently working on mOS, a x86_64 operating system written in C11
-
 <!--
 **Moldytzu/Moldytzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
